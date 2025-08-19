@@ -82,6 +82,4 @@ The purpose of this testing is to validate the core functionalities, UI/UX eleme
 ---
 
 ## 🎥 Demo Video
-
-[
 ](https://drive.google.com/file/d/1jH66B5CBzi_l_dMrsDPispb2SYwjS3XQ/view?usp=sharing)---
