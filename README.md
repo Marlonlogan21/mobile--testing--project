@@ -83,6 +83,5 @@ The purpose of this testing is to validate the core functionalities, UI/UX eleme
 
 ## 🎥 Demo Video
 
-[![Watch the Recording](https://img.shields.io/badge/Watch-Recording-blue?logo=google-drive)](https://drive.google.com/file/d/1C0C3y6uKQmQZwDrFF2pZpExNfjxiojmL/view?usp=sharing)
-
----
+[
+](https://drive.google.com/file/d/1jH66B5CBzi_l_dMrsDPispb2SYwjS3XQ/view?usp=sharing)---
